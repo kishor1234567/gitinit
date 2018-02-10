@@ -1,0 +1,24 @@
+{
+  "name": "gitinit",
+  "version": "1.0.0",
+  "description": "my first learning init",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishor1234567/gitinit.git"
+  },
+  "author": "hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishor1234567/gitinit/issues"
+  },
+  "homepage": "https://github.com/kishor1234567/gitinit#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
